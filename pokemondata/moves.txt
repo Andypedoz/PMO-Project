@@ -1,0 +1,8 @@
+name
+type
+moveEffect
+pp
+aPP
+power
+precision
+description
